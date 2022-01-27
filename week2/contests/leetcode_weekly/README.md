@@ -4,4 +4,4 @@ contest results: 2/4.
 
 ###### My Solutions
 
-<img src="/coding_contests/contest_screenshots/leetcode_weekly_277.png" alt="Screenshot the results of my contest." width="600"/>
+<img src="coding-contests/contest_screenshots/leetcode_weekly_277.png" alt="Screenshot the results of my contest." width="600"/>
