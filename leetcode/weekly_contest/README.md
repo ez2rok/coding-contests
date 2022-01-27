@@ -7,7 +7,7 @@ Contest results: 2/4.
 * [Rearrange Array Elements by Sign](https://github.com/ez2rok/coding-contests/blob/main/leetcode/2149_rearrange_array_elements_by_sign.py)
 
 
-<img src="contest_screenshots/weekly_277.png" alt="Screenshot the results of my contest." width="200"/>
+<img src="contest_screenshots/weekly_277.png" alt="Screenshot the results of my contest." width="700"/>
 
 ![Screenshot the results of my contest.](contest_screenshots/weekly_277.png "a title")
 
