@@ -4,8 +4,6 @@ def min_max_swap(a, b):
         if a[i] > b[i]:
             a[i], b[i] = b[i], a[i]
 
-
-
 n_test_cases = int(input())
 
 for _ in range(n_test_cases):
