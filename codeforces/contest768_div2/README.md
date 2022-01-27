@@ -1,6 +1,6 @@
 ### Codeforces Contest 768 (Division 2)
 
-[Contest questions](https://codeforces.com/contest/1631 'Link to Contest Questions').
+Contest questions: [here](https://codeforces.com/contest/1631 'Link to Contest Questions').
 
 Contest results: 1/6.
 
