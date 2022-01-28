@@ -1,5 +1,5 @@
 
-### Leetcode Weekly Contest 277 (January 28, 2022)
+### DMOJ Mock CCC '22 Contest 1 (January 28, 2022)
 Contest [questions](https://dmoj.ca/contest/mccc3j 'Link to Contest Questions'); 
 contest results: 2/5.
 
