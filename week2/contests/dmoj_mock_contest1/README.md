@@ -7,4 +7,4 @@ contest results: 2/5.
 * [Biking and Hiking](https://github.com/ez2rok/coding-contests/blob/main/week2/contests/dmoj_mock_contest1/biking_and_hiking.py)
 * [Square Root Decomposition](https://github.com/ez2rok/coding-contests/blob/main/week2/contests/dmoj_mock_contest1/square_root_decomposition.py)
 
-<img src=dmoj_mock_ccc'22_contest1.png" alt="Screenshot of my contest results." width="800"/>
+<img src="dmoj_mock_ccc'22_contest1.png" alt="Screenshot of my contest results." width="800"/>
