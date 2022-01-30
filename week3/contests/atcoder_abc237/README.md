@@ -3,6 +3,6 @@ Contest [questions](https://atcoder.jp/contests/abc237 'Link to Contest Question
 Contest results: 2/8.
 
 ###### My Solutions
-* [Min Max Swap](https://github.com/ez2rok/coding-contests/blob/main/week2/contests/codeforces_contest768_division2/minmaxswap.py)
-
-<img src="codeforces_1631A.png" alt="Screenshot of my contest results." width="800"/> 
+* [Matrix Transposition](https://github.com/ez2rok/coding-contests/blob/main/week3/contests/atcoder_abc237/matrix_transposition.py)
+* [Not Overflow](https://github.com/ez2rok/coding-contests/blob/main/week3/contests/atcoder_abc237/not_overflow.py)
+<img src="atcoder_abc237.png" alt="Screenshot of my contest results." width="800"/> 
