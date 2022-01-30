@@ -1,4 +1,4 @@
-### Leetcode Weekly Contest 277 (January 22, 2022)
+### Codechef Starters 3 Division 3 (January 22, 2022)
 Contest [questions](https://www.codechef.com/START23C?order=desc&sortBy=successful_submissions 'Link to Contest Questions'); 
 contest results: 2/6.
 
