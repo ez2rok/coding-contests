@@ -1,4 +1,4 @@
-### Leetcode Weekly Contest 278 (January 30, 2022)
+### Leetcode Weekly Contest 278 (January 29, 2022)
 Contest [questions](https://leetcode.com/contest/weekly-contest-278/ 'Link to Contest Questions'); 
 contest results: 2/4.
 
