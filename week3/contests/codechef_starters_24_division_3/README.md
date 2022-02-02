@@ -4,7 +4,7 @@ contest results: 4/7.
 
 ###### My Solutions
 * [Avoid Contact](https://github.com/ez2rok/coding-contests/blob/main/week3/contests/codechef_starters_24_division_3/avoid_contact.py)
-* [Badminton Serves]https://github.com/ez2rok/coding-contests/blob/main/week3/contests/codechef_starters_24_division_3/badminton_serves.py)
+* [Badminton Serves](https://github.com/ez2rok/coding-contests/blob/main/week3/contests/codechef_starters_24_division_3/badminton_serves.py)
 * [EVM Hacking](https://github.com/ez2rok/coding-contests/blob/main/week3/contests/codechef_starters_24_division_3/evm_hacking.py)
 * [Yet Another Constructive Problem](https://github.com/ez2rok/coding-contests/blob/main/week3/contests/codechef_starters_24_division_3/yet_another_constructive_problem.py)
 
