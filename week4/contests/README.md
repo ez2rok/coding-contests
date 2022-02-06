@@ -1,0 +1,2 @@
+### Total points from this week's contests
+* 2 Leetcode Weekly Contest
