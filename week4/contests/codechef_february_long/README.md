@@ -6,4 +6,4 @@ Contest results: 2/7.
 * [Chef and the Hair Salon](https://github.com/ez2rok/coding-contests/blob/main/week4/contests/codechef_february_long/chef_and_the_hair_salon.py)
 * [N Queens Puzzle Solved](https://github.com/ez2rok/coding-contests/blob/main/week4/contests/codechef_february_long/n_queens_puzzle_solved.py)
 
-<img src="codeforces_round_770_division_2.png" alt="Screenshot of my contest results." width="800"/> 
+<img src="codechef_february_long.png" alt="Screenshot of my contest results." width="800"/> 
