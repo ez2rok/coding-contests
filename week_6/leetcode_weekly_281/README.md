@@ -2,6 +2,8 @@
 Contest [questions](https://leetcode.com/contest/weekly-contest-281/); 
 contest results: 2/4.
 
+For religious reasons, I took this leetcode contest as a virtual test; Professor Lim said this is okay.
+
 ###### My Solutions
 * [Count Integers with Even Sum](https://github.com/ez2rok/coding-contests/blob/main/week_6/leetcode_weekly_281/count_integers_with_even_digit_sum.py)
 * [Merge Nodes in Between Zeros](https://github.com/ez2rok/coding-contests/blob/main/week_6/leetcode_weekly_281/merge_nodes_in_between_zeros.py)
