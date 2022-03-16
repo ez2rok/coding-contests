@@ -6,4 +6,4 @@ contest results: 2/7.
 * [Chef and Water Bottles](https://github.com/ez2rok/coding-contests/blob/main/spring_break/codechef_starters_30_division_3/chef_and_water_bottles.py)
 * [Swapping Chefs Way](https://github.com/ez2rok/coding-contests/blob/main/spring_break/codechef_starters_30_division_3/swapping_chefs_way.py)
 
-<img src="codechef_starters_30_division_3.png.png" alt="Screenshot of my contest results." width="800"/>
+<img src="codechef_starters_30_division_3.png" alt="Screenshot of my contest results." width="800"/>
