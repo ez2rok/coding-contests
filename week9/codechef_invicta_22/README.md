@@ -6,4 +6,4 @@ contest results: 2/7.
 * [Check Attendance](https://github.com/ez2rok/coding-contests/blob/main/week9/codechef_invicta_22/check_attendance.py)
 * [XOR Bit](https://github.com/ez2rok/coding-contests/blob/main/week9/codechef_invicta_22/xor_bit.py)
 
-<img src="codechef_invicta_22.png" alt="Screenshot of my contest results." width="800"/>
+<img src="codechef_invicta.png" alt="Screenshot of my contest results." width="800"/>
