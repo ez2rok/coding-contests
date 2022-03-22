@@ -4,3 +4,4 @@
 * 2 Leetcode Weekly 285
 * 2 Codechef Invicta 22
 * 3 Leetcode Biweekly 74
+* 2 Codeforces Educational 125
