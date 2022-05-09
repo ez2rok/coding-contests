@@ -1,2 +1,2 @@
 ### Points
-* 3 Cofechef Weekly Long
+* 3 Codechef Weekly Long
